@@ -1,23 +1,23 @@
 # Car-Analytics
-EDA and Predictive Modeling
+#EDA and Predictive Modeling
 
-Car Data Analytics
+#Car Data Analytics
 
 Car Analytics is a web application to perform exploratory data analytics of several features of car, get prediction of most suitable car based on user choice and get the on analysis of on road tax of cars in the states of India.   
 
 
-Features of the Application
+#Features of the Application
 Graphical representation of relation between different features of Car
 Suitable Car Prediction based on user preferance 
 On Road Tax analysis for cars in India
 
-Built With
+#Built With
 Streamit framework
 
-Getting Started
+#Getting Started
 To install and run the project on your local system, following are the requirements
 
-Prerequisites
+#Prerequisites
 Install the packages
 streamlit 1.9.2
 joblib 
@@ -27,7 +27,7 @@ pandas
 Numpy
 
 
-Resources
+#Resources
 Kaggle Dataset
 https://www.mycarhelpline.com/index.php?option=com_easyblog&view=entry&id=155&Itemid=91
 https://docs.streamlit.io/
