@@ -1,7 +1,7 @@
 # Car-Analytics
 #EDA and Predictive Modeling
 
-#Car Data Analytics
+Car Data Analytics
 
 Car Analytics is a web application to perform exploratory data analytics of several features of car, get prediction of most suitable car based on user choice and get the on analysis of on road tax of cars in the states of India.   
 
