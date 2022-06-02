@@ -5,7 +5,6 @@ Car Analytics is a web application to perform exploratory data analytics of seve
 
 
 ## Features of the Application
----
   - Graphical representation of relation between different features of Car
   - Suitable Car Prediction based on user preferance 
   - On Road Tax calculation and analysis for cars in India 
